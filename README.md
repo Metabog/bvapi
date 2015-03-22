@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Symfony REST Edition
 ========================
 
@@ -204,3 +205,6 @@ Enjoy!
 [19]: https://github.com/hautelook/TemplatedUriBundle
 [20]: https://github.com/willdurand/BazingaRestExtraBundle
 [21]: https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/
+=======
+# make-problem
+>>>>>>> 4ff3b25d090b856e147bb84ca5e40267493e117c
