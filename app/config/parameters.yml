@@ -1,9 +1,9 @@
 parameters:
-    database_driver:   pdo_mysql
+    database_driver:   pdo_pgsql
     database_host:     127.0.0.1
-    database_port:     ~
-    database_name:     symfony
-    database_user:     root
+    database_port:     5432
+    database_name:     problem-make
+    database_user:     bogdanvera
     database_password: ~
 
     mailer_transport:  smtp
